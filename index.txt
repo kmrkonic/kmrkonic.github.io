@@ -1,0 +1,67 @@
+<!DOCTYPE
+<html>
+<head>
+    <title> Travels </title>
+</head>
+<body> 
+<h1> Hi! Welcome to my website! </h1>
+<p> Isn't it <strong> awesome? </strong> </p>
+<p><a href="http://google.com" > The whole internet </a> </p>
+<p> <img src="antelope"> </p>
+<p><a href="about.html"> About Me </a> </p>
+<hr>
+
+<p> <em> Top Travels </em> </p>
+<ol>
+    <li> Laos </li>
+    <li> Belgium </li>
+    <li> Vietnam </li>
+</ol>
+
+<p> <em> Top Hikes </em> </p>
+<ol>
+    <li> Inca Trail </li>
+    <li> Dolomites </li>
+    <li> Angels Landing </li>    
+    <li> Appalacian Trail </li>
+
+</ol>
+
+<p> Recent Travels </p>
+<table>
+ <tr>
+ <th>location</th>
+ <th>date</th>
+ </tr>
+ <tr>
+ <td>Cusco</td>
+ <td>December 10-15</td>
+ </tr>
+ <tr>
+ <td>Lima</td>
+ <td>December 15-20</td>
+ </tr>
+  <tr>
+ <td>Detroit</td>
+ <td>December 21-25</td>
+ </tr>
+  <tr>
+ <td>SLO</td>
+ <td>December 25-28</td>
+ </tr>
+  <tr>
+ <td>Detroit</td>
+ <td>December 28-January 1</td>
+ </tr>
+  <tr>
+ <td>Zion </td>
+ <td>January 1-4</td>
+ </tr>
+  <tr>
+ <td>Grand Canyon</td>
+ <td>January 5-7</td>
+ </tr>
+</table>
+
+</body>
+</html>
